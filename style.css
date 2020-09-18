@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #AE1C28;
+    display: flex;
+}
+
+header > h1 {
+    color: white;
+    padding: 4%;
+    margin: 30px auto;
+}
+
+.div1 {
+    background-color: #FFFFFF;
+    padding: 5px;
+}
+
+.div2 {
+    background-color: #21468B;
+    padding: 5px;
+}
+
+.div3 {
+    background-color: #AE1C28;
+    padding: 5px;
+}
